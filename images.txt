@@ -5,11 +5,14 @@
 # #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-elleflorio/svn-server
-
 networkstatic/iperf3
-
-gitlab/gitlab-ce:17.1.2-ce.0
-gitlab/gitlab-runner:v17.0.1
-
+jc21/nginx-proxy-manager
 ich777/krusader
+library/mariadb
+library/postgres
+linuxserver/transmission
+linuxserver/syncthing
+gitlab/gitlab-ce
+gitlab/gitlab-runner
+xhofe/alist
+linuxserver/jellyfin
