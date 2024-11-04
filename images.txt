@@ -16,3 +16,5 @@ gitlab/gitlab-ce
 gitlab/gitlab-runner
 xhofe/alist
 linuxserver/jellyfin
+library/nextcloud
+onlyoffice/communityserver
