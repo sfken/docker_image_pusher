@@ -13,7 +13,6 @@ library/postgres
 linuxserver/transmission
 linuxserver/syncthing
 gitlab/gitlab-ce
-gitlab/gitlab-runner
 xhofe/alist
 linuxserver/jellyfin
 library/nextcloud
