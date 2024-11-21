@@ -18,3 +18,4 @@ linuxserver/jellyfin
 library/nextcloud
 onlyoffice/communityserver
 gitea/gitea
+onlyoffice/documentserver
