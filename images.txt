@@ -19,3 +19,4 @@ library/nextcloud
 onlyoffice/communityserver
 gitea/gitea
 onlyoffice/documentserver
+registry.gitlab.cn/omnibus/gitlab-jh
