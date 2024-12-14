@@ -20,3 +20,5 @@ onlyoffice/communityserver
 gitea/gitea
 onlyoffice/documentserver
 technosoft2000/calibre-web
+emby/embyserver
+lscr.io/linuxserver/libreoffice
