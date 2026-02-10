@@ -24,3 +24,4 @@ emby/embyserver
 lscr.io/linuxserver/libreoffice
 weejewel/wg-easy
 jeessy/ddns-go
+nextcloud/all-in-one:latest
